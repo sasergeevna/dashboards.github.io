@@ -10,7 +10,7 @@
   - `Users` — количество пользователей;
   - `Conversions` — количество конверсий;
   - `CR` (Conversion Rate) = Conversions / Users;
-  - 
+  
 ###  Превью дашборда
 [Файл с дашбордом "ab_dashboard.pbix"](https://github.com/sasergeevna/dashboards.github.io/blob/main/ab_dashboard.pbix)
 
